@@ -39,8 +39,8 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Leading a team of two members on Chromium browser project for smartwatches.
-  * Modelling
-  * Deploying
+  * Taking care of the entire media capture and playback pipeline in Chromium Engine.
+  * Implementing new features maintaining Agile and SDLC practices.
   """
 
 +++

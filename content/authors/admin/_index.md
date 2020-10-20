@@ -15,14 +15,14 @@ role: Software Engineer
 # Organizations/Affiliations
 organizations:
 - name: Samsung Research
-  url: ""
+  url: "https://research.samsung.com/srbd"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Security and Privacy, IoT, Machine Learning, Data Mining.
 
 interests:
 - Security and Privacy
-- Internet of Things (IoT)
+- Internet-of-Things (IoT)
 - Machine Learning
 - Data Mining
 
@@ -77,6 +77,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a software engineer in Mobile Application Group at Samsung Research. My primary focus is to take care of the overall Media Capture and Playback pipeline of Chromium Engine. Apart from that I am also working on the optimation of the Recommendation Engine of Samsung. I am always involved in internal competetive programming contests and different idea contests.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I have graduate from Bangladesh University of Engineering and Technology in Computer Science and Engineering on 2018. I have worked on broader range of topics, e.g. Data Mining, Machine Learning, Bioinformatics etc.
+
+Here is a link to my [CV](https://drive.google.com/file/d/1zjtsXNxPtqos5YRggGrs0WNz1xHJGM_t/view?usp=sharing)
