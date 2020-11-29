@@ -18,13 +18,14 @@ organizations:
   url: "https://research.samsung.com/srbd"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Security and Privacy, IoT, Machine Learning, Data Mining.
+bio: My research interests include Security and Privacy, Embedded Systems, Ubiquitous Computing, IoT, Machine Learning.
 
 interests:
 - Security and Privacy
+- Embedded Systems
+- Ubiquitous Computing
 - Internet-of-Things (IoT)
 - Machine Learning
-- Data Mining
 
 education:
   courses:
@@ -62,7 +63,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/file/d/1zjtsXNxPtqos5YRggGrs0WNz1xHJGM_t/view?usp=sharing
+  link: https://drive.google.com/file/d/1TafGgAgE9B3G-T4PlqvSfieSVBAIWG0Q/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "ir.shimul@gmail.com"
@@ -77,8 +78,8 @@ user_groups:
 - Visitors
 ---
 
-I am a software engineer in Mobile Application Group at Samsung Research. My primary focus is to take care of the overall Media Capture and Playback pipeline of Chromium Engine. Apart from that I am also working on the optimation of the Recommendation Engine of Samsung. I am always involved in internal competetive programming contests and different idea contests.
+I am a software engineer in Mobile Application Group at Samsung Research. My primary focus is to take care of the overall Media Capture and Playback pipeline of Chromium Engine. Apart from that I am also working on the optimation of the Recommendation Engine of Samsung. I am always involved in competetive programming contests and different idea contests.
 
-I have graduate from Bangladesh University of Engineering and Technology in Computer Science and Engineering on 2018. I have worked on broader range of topics, e.g. Data Mining, Machine Learning, Bioinformatics etc.
+I am primarily interested in real-world security and privacy threats in emerging technologies and resource-limited systems such as embedded and Internet of Things (IoT) systems. I am interested in finding out the challenges with the emergence of these devices and building protocols, models, and systems to address those challenges.
 
-Here is a link to my [CV](https://drive.google.com/file/d/1zjtsXNxPtqos5YRggGrs0WNz1xHJGM_t/view?usp=sharing)
+Here is a link to my [CV](https://drive.google.com/file/d/1TafGgAgE9B3G-T4PlqvSfieSVBAIWG0Q/view?usp=sharing)
