@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "SecureImgStego: A Keyed Shuffling Encryption-based Deep Learning Model for Secure Image Steganography"
-authors: [Trishna Chakraborty, Hasan Murad, Imranur Rahman, Sohrab Hossain, Shagufta Mehnaz]
+authors: [Trishna Chakraborty, Hasan Murad, admin, Sohrab Hossain, Shagufta Mehnaz]
 date: 2021-05-17T15:01:01+06:00
 doi: ""
 

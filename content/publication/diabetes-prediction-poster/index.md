@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Diabetic Prediction on Patient Data Maintaining Privacy"
-authors: [Imranur Rahman, Sumyea Rahman, Abu Sifat Chanchal]
+authors: [admin, Sumyea Rahman, Abu Sifat Chanchal]
 date: 2017-05-18T09:04:55+06:00
 doi: ""
 
