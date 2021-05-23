@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   description = """Solving bugs related to Media Capture and Playback pipeline."""
 
 [[experience]]
-  title = "Software Engineer"
+  title = "Sr. Software Engineer"
   company = "Samsung Research"
   company_url = ""
   location = "Dhaka"
