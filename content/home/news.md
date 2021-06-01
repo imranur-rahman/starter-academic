@@ -50,6 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-- Awarded 'Student Travel Grant' in IEEE Symposium on Security and Privacy (Oakland) '21.
-- Got registration fee waiver in WOOT'21 (Co-located with Oakland'21).
-- Submitted out paper 'SecureImgStego: A Keyed Shuffling Encryption-based Deep Learning Model for Secure Image Steganography' to ESORICS '2021.
+- **[May '21]** Awarded 'Student Travel Grant' in IEEE Symposium on Security and Privacy (Oakland) '21.
+- **[May '21]** Got registration fee waiver in WOOT'21 (Co-located with IEEE S&P'21 and in cooperation with USENIX).
+- **[May '21]** Submitted our paper 'SecureImgStego: A Keyed Shuffling Encryption-based Deep Learning Model for Secure Image Steganography' to ESORICS '2021.

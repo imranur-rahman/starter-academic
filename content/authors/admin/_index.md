@@ -22,9 +22,9 @@ bio: My research interests include Security and Privacy, Embedded Systems, Ubiqu
 
 interests:
 - Security and Privacy
-- Embedded Systems
-- Ubiquitous Computing
 - Internet-of-Things (IoT)
+- Network Security
+- Ubiquitous Computing
 - Machine Learning
 
 education:
