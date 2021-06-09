@@ -50,6 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
+- **[June '21]** Awarded 1st prize in 2nd Innovation Day Idea Contest in Samsung R&D Institute Bangladesh for submitting an idea on Wifi 6.
 - **[June '21]** Awarded 'Attendee Stipend' in ACM AsiaCCS '21.
 - **[May '21]** Awarded 'Student Travel Grant' in IEEE Symposium on Security and Privacy (Oakland) '21.
 - **[May '21]** Got registration fee waiver in WOOT'21 (Co-located with IEEE S&P'21 and in cooperation with USENIX).
