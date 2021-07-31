@@ -22,7 +22,7 @@ publication_short: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "Currently under review in ESORICS '21"
+summary: "Currently under review"
 
 tags: ['deep learning', 'steganography', 'steganalysis', 'security']
 categories: []
