@@ -21,11 +21,11 @@ organizations:
 bio: My research interests include Security and Privacy, Embedded Systems, Ubiquitous Computing, IoT, Machine Learning.
 
 interests:
-- Security and Privacy
-- Formal Analysis
+- System Security
+- Software Security
+- Program Analysis
 - Internet-of-Things (IoT)
 - Network Security
-- Ubiquitous Computing
 - Machine Learning
 
 education:
@@ -42,9 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:ir.shimul@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: skype
-  icon_pack: fab
-  link: live:ir.shimul
+# - icon: skype
+#   icon_pack: fab
+#   link: live:ir.shimul
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/imranur7
@@ -64,7 +64,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/file/d/1TafGgAgE9B3G-T4PlqvSfieSVBAIWG0Q/view?usp=sharing
+  link: https://drive.google.com/file/d/1sEUC0dLiOi8y3A-oai1sDZulgsflvO_5/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "ir.shimul@gmail.com"
@@ -83,4 +83,4 @@ I am a software engineer in Mobile Application Group at Samsung Research. My pri
 
 I am primarily interested in real-world security and privacy threats in emerging technologies and resource-limited systems such as embedded and Internet of Things (IoT) systems. I am interested in finding out the challenges with the emergence of these devices and building protocols, models, and systems to address those challenges.
 
-Here is a link to my [CV](https://drive.google.com/file/d/1TafGgAgE9B3G-T4PlqvSfieSVBAIWG0Q/view?usp=sharing)
+Here is a link to my [CV](https://drive.google.com/file/d/1sEUC0dLiOi8y3A-oai1sDZulgsflvO_5/view?usp=sharing)
