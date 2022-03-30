@@ -50,6 +50,8 @@ subtitle = ""
  css_class = ""
 +++
 
+- **[March '22]** Served as a member of the Artifact Evaluation Committee of WiSec '22 ([link](https://wisec2022.cs.utsa.edu/replicability-label/)).
+- **[March '22]** Will start as a PhD student at North Carolina State University from Fall '22.
 - **[July '21]** Awarded a "Student Grant" in USENIX Security '21.
 - **[June '21]** Awarded 1st prize in 2nd Innovation Day Idea Contest in Samsung R&D Institute Bangladesh for submitting an idea on Wifi 6.
 - **[June '21]** Awarded 'Attendee Stipend' in ACM AsiaCCS '21.
