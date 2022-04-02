@@ -18,7 +18,7 @@ organizations:
   url: "https://research.samsung.com/srbd"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Security and Privacy, Embedded Systems, Ubiquitous Computing, IoT, Machine Learning.
+bio: My research interests include Security and Privacy, Formal Verification, IoT, Machine Learning.
 
 interests:
 - System Security
@@ -30,6 +30,8 @@ interests:
 
 education:
   courses:
+  - course: PhD in Computer Science
+    institution: North Carolina State University
   - course: BSc in Computer Science and Engineering
     institution: Bangladesh University of Engineering and Technology
     year: 2018
@@ -79,8 +81,12 @@ user_groups:
 - Visitors
 ---
 
-I am a software engineer in Mobile Application Group at Samsung Research. My primary focus is to take care of the overall Media Capture and Playback pipeline of Chromium Engine. Apart from that I am also working on the optimation of the Recommendation Engine of Samsung. I am always involved in competetive programming contests and different idea contests.
+I am a software engineer in Wearable eXperience Group at Samsung Research. My primary focus is to take care of the overall Media Capture and Playback pipeline of Chromium Engine. Apart from that I am also working on the optimation of the Recommendation Engine of Samsung. I am always involved in competetive programming contests and different idea contests.
 
 I am primarily interested in real-world security and privacy threats in emerging technologies and resource-limited systems such as embedded and Internet of Things (IoT) systems. I am interested in finding out the challenges with the emergence of these devices and building protocols, models, and systems to address those challenges.
 
 Here is a link to my [CV](https://drive.google.com/file/d/1sEUC0dLiOi8y3A-oai1sDZulgsflvO_5/view?usp=sharing)
+
+{{% callout note %}}
+I am going to start my PhD in Computer Science at [*NC State*](https://www.ncsu.edu/) from Fall '22. I am very excited to start working on cutting edge security and privacy problems.
+{{% /callout %}}
