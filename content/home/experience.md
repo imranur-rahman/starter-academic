@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   company_url = "https://www.chromium.org/Home"
   location = ""
   date_start = "2019-06-01"
-  date_end = ""
+  date_end = "2022-06-01"
   description = """Solving bugs related to Media Capture and Playback pipeline."""
 
 [[experience]]
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Dhaka"
   date_start = "2018-12-03"
-  date_end = ""
+  date_end = "2022-07-19"
   description = """
   Responsibilities include:
   

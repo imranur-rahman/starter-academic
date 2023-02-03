@@ -20,8 +20,8 @@ weight = 30  # Order that this section will appear.
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  # gradient_start = "#4bb4e3"
+  # gradient_end = "#2b94c3"
   
   # Background image.
   # image = ""  # Name of image in `static/media/`.
@@ -38,7 +38,7 @@ weight = 30  # Order that this section will appear.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://github.com/irshimul/dns-cache-poisoning-attack-reloaded"
-  label = "Go to the repository"
+  label = "Repository"
   icon_pack = "fab"
   icon = "github"
   
@@ -51,4 +51,4 @@ weight = 30  # Order that this section will appear.
 #  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
-**Recently I have replicated DNS Cache poisoning attack reloaded (saddns.com) from ACM CCS '20**
+I have replicated DNS Cache poisoning attack reloaded (saddns.com) from ACM CCS '20

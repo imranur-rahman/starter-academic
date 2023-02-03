@@ -10,28 +10,28 @@ authors:
 superuser: true
 
 # Role/position
-role: Sr. Software Engineer
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Samsung Research
-  url: "https://research.samsung.com/srbd"
+- name: North Carolina State University
+  url: "https://www.ncsu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Security and Privacy, Formal Verification, IoT, Machine Learning.
+bio: My research interests include Software Supply Chain Security (broadly Security and Privacy).
 
 interests:
+- Software Supply Chain Security
 - System Security
 - Software Security
 - Program Analysis
-- Internet-of-Things (IoT)
-- Network Security
 - Machine Learning
 
 education:
   courses:
   - course: PhD in Computer Science
     institution: North Carolina State University
+    year: 2022
   - course: BSc in Computer Science and Engineering
     institution: Bangladesh University of Engineering and Technology
     year: 2018
@@ -66,7 +66,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/file/d/1sEUC0dLiOi8y3A-oai1sDZulgsflvO_5/view?usp=sharing
+  link: https://drive.google.com/file/d/1ptPIP4AOqjKdp4rpFvo38SjabVXeYS5e/view?usp=share_link
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "ir.shimul@gmail.com"
@@ -81,12 +81,14 @@ user_groups:
 - Visitors
 ---
 
-I am a software engineer in Wearable eXperience Group at Samsung Research. My primary focus is to take care of the overall Media Capture and Playback pipeline of Chromium Engine. Apart from that I am also working on the optimation of the Recommendation Engine of Samsung. I am always involved in competetive programming contests and different idea contests.
+<!-- I am a software engineer in Wearable eXperience Group at Samsung Research. My primary focus is to take care of the overall Media Capture and Playback pipeline of Chromium Engine. Apart from that I am also working on the optimation of the Recommendation Engine of Samsung. I am always involved in competetive programming contests and different idea contests.
 
-I am primarily interested in real-world security and privacy threats in emerging technologies and resource-limited systems such as embedded and Internet of Things (IoT) systems. I am interested in finding out the challenges with the emergence of these devices and building protocols, models, and systems to address those challenges.
+I am primarily interested in real-world security and privacy threats in emerging technologies and resource-limited systems such as embedded and Internet of Things (IoT) systems. I am interested in finding out the challenges with the emergence of these devices and building protocols, models, and systems to address those challenges. -->
 
-Here is a link to my [CV](https://drive.google.com/file/d/1sEUC0dLiOi8y3A-oai1sDZulgsflvO_5/view?usp=sharing)
+I am a first-year PhD student at NC State University. The main focus of my research interest is Software Supply Chain Security related problems. I am currently working with [Dr. Laurie Williams](https://collaboration.csc.ncsu.edu/laurie/) on (a) the mapping of security metrics among different frameworks and (b) the scientific validation of security metrics from different frameworks in Software Supply Chain Security.
 
-{{% callout note %}}
+Here is a link to my [Resume](https://drive.google.com/file/d/1ptPIP4AOqjKdp4rpFvo38SjabVXeYS5e/view?usp=share_link).
+
+<!-- {{% callout note %}}
 I am going to start my PhD in Computer Science at [*NC State*](https://www.ncsu.edu/) from Fall '22. I am very excited to start working on cutting edge security and privacy problems.
-{{% /callout %}}
+{{% /callout %}} -->
