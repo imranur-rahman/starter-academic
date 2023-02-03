@@ -17,28 +17,30 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Committer"
+  company = "Chromium Open Source Project"
+  company_url = "https://www.chromium.org/Home"
+  location = ""
+  date_start = "2019-06-01"
+  date_end = "2022-06-01"
+  description = """Solving bugs related to Media Capture and Playback pipeline."""
+
+[[experience]]
+  title = "Sr. Software Engineer"
+  company = "Samsung Research"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Dhaka"
+  date_start = "2018-12-03"
+  date_end = "2022-07-19"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Leading a team of two members on Chromium browser project for smartwatches.
+  * Taking care of the entire media capture and playback pipeline in Chromium Engine.
+  * Implementing new features maintaining Agile and SDLC practices.
   """
-
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
