@@ -89,7 +89,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "ir.shimul@gmail.com"
-phone = "+1-984-683-3662"
+phone = "+1 (984) 683-3662"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -271,10 +271,10 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = "UA-180845067-1"
+  google_analytics = "254385673"
   google_site_verification = "z3F3YAnNxsykFJusN449jn5fGUeJwRFZDFBjHYKKuMA"
   bing_site_verification = "518cf951fdd6a6a54341c5724fdf63bd"
-  google_tag_manager = ""
+  google_tag_manager = "G-QCTY9TPXS8"
 
 ############################
 ## Content Management System
