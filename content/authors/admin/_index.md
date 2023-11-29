@@ -22,9 +22,8 @@ bio: My research interests include Software Supply Chain Security (broadly Secur
 
 interests:
 - Software Supply Chain Security
-- System Security
 - Software Security
-- Program Analysis
+- Generative AI 4 SE/Security
 - Machine Learning
 
 education:
@@ -85,7 +84,7 @@ user_groups:
 
 I am primarily interested in real-world security and privacy threats in emerging technologies and resource-limited systems such as embedded and Internet of Things (IoT) systems. I am interested in finding out the challenges with the emergence of these devices and building protocols, models, and systems to address those challenges. -->
 
-I am a first-year PhD student at NC State University. The main focus of my research interest is Software Supply Chain Security related problems. I am currently working with [Dr. Laurie Williams](https://collaboration.csc.ncsu.edu/laurie/) on (a) the mapping of security metrics among different frameworks and (b) the scientific validation of security metrics from different frameworks in Software Supply Chain Security.
+I am a second-year PhD student at NC State University. The main focus of my research interest is Software Supply Chain Security related problems. I am currently working with [Dr. Laurie Williams](https://collaboration.csc.ncsu.edu/laurie/) on (a) the exploration of different update metrics across multiple ecosystem, (b) sensitive API usage by different OSS packages (alone and with dependencies) and their potential effect on security advisories or choice of a library from a set of feature equivalent libraries. The whole goal of the second project is to give developers more visibility about what's going on in their dependencies.
 
 Here is a link to my [Resume](https://drive.google.com/file/d/1ptPIP4AOqjKdp4rpFvo38SjabVXeYS5e/view?usp=share_link).
 

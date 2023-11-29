@@ -35,8 +35,13 @@ featured: true
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+links:
+- name: DOI
+  url: https://doi.org/10.1109/CNS59707.2023.10288753
+  icon_pack: fab
+  icon: 
 
-url_pdf:
+url_pdf: https://doi.org/10.1109/CNS59707.2023.10288753
 url_code: https://github.com/Trishna-Chakraborty/DeepKeyStego
 url_dataset:
 url_poster:
