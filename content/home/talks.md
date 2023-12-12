@@ -73,7 +73,7 @@ subtitle = ""
   Mon\Conf          | Software Engineering  |         Security
 --------------------|-----------------------|-------------------------
 January             |                       | CCS                     
-February            | ISSTA                 | USENIX
+February            | ISSTA                 | USENIX, WiSec
 March               | ICSE                  | 
 April               | ESEM, ICSME           | S&P, NDSS
 May                 | ASE, ISSRE            | CCS, ACSAC
@@ -82,5 +82,5 @@ July                |                       |
 August              | ICSE                  | S&P
 September           | FSE                   |  
 October             | SANER                 | USENIX 
-November            | ISSTA, ICST           |  
+November            | ISSTA, ICST           | WiSec
 December            |                       | S&P
