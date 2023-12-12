@@ -4,10 +4,10 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "Year Round Deadline"
 subtitle = ""
 
 [content]
@@ -68,3 +68,19 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+
+  Mon\Conf          | Software Engineering  |         Security
+--------------------|-----------------------|-------------------------
+January             |                       | CCS                     
+February            | ISSTA                 | USENIX
+March               | ICSE                  | 
+April               | ESEM, ICSME           | S&P, NDSS
+May                 | ASE, ISSRE            | CCS, ACSAC
+June                |                       | USENIX, NDSS
+July                |                       |  
+August              | ICSE                  | S&P
+September           | FSE                   |  
+October             | SANER                 | USENIX 
+November            | ISSTA, ICST           |  
+December            |                       | S&P
