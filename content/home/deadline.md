@@ -30,7 +30,5 @@ December            | [ISSTA (15*)](https://conf.researchr.org/home/issta-2024) 
 
 
 
-Conference *(Date)*
+> Conference *(Date\*)*  ⟶  previous years date
 
-
-\*  means previous years date
