@@ -41,7 +41,7 @@ url_pdf:
 url_code:
 url_dataset:
 url_poster: https://drive.google.com/file/d/1q1P3v-CcOq9NSgR9de93ky5RXmoQ2tMc/view?usp=sharing
-url_project:
+url_project: http://dx.doi.org/10.13140/RG.2.2.20004.86402
 url_slides:
 url_source:
 url_video:
