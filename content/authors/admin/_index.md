@@ -51,7 +51,7 @@ social:
   link: https://twitter.com/imranur7
 - icon: github
   icon_pack: fab
-  link: https://github.com/irshimul
+  link: https://github.com/imranur-rahman
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/imranur-rahman-shimul/
